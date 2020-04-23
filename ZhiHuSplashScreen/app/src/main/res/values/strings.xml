@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ZhiHuSplashScreen</string>
+    <string name="sample_text">假装这里是广告</string>
 </resources>
