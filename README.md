@@ -22,6 +22,6 @@ Android 应用启动图的各种实现方式示例
 代码见[WindowBackgroundTransparent](./WindowBackgroundTransparent)
 
 ## 知乎启动图的实现方式
-知乎的启动图用的是第二种方法，即“设置了启动图主题的专用`Activity`的方式”
+知乎的启动图用的是“设置了启动图主题的专用`Activity`的方式”
 
 代码见[ZhiHuSplashScreen](./ZhiHuSplashScreen)
